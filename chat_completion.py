@@ -1,6 +1,4 @@
-cd "C:\Users\PRANJUL GUPTA\Downloads\sarvam1test"
-.\.venv\Scripts\Activate.ps1
-streamlit run app.pyimport os
+import os
 
 from sarvamai import SarvamAI
 
